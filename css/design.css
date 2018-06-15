@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+}
+button{
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    padding:2px;
+    font-size: 20px;
+    font-weight: bold; 
+}
+#gameover{
+    color: green;
+    font-weight: bold;
+}
